@@ -1,0 +1,17 @@
+body {
+    background-color: #E1CCEC;
+    max-width: 100vw;
+    max-height: 100vh;
+}
+
+main {
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 200px;
+	padding: 20px;
+}
+
+main h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: #000000;
+}
