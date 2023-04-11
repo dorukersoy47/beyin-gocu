@@ -4,6 +4,10 @@ body {
     max-height: 100vh;
 }
 
+p {
+  font-size: 20px;
+}
+
 main {
     font-family: 'Times New Roman', Times, serif;
     margin-left: 150px;
